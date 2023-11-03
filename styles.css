@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+img{
+    border: 0.5px solid white;
+}
+
+
+/*.tag-button:active {
+    background-color: #666;
+}
+
+.tag-button:not(:active) {
+    background-color: #ccc;
+}*/
+.large-images img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+/* Style for checked checkboxes */
+.checkbox:checked + .tag-button {
+    background-color: yellow; /* Change to the desired checked color */
+}
+
+
+
+#searchInput {
+/*    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;*/
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: center;*/
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.image-container img {
+    width: 53.8px;
+    /*max-width: 200px;*/
+    /*max-height: 100px;*/
+}
+
+.button-container{
+    padding-bottom: 8px;
+}
+
+.enlarged-view {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    z-index: 2;
+/*    justify-content: center;
+    align-items: center;*/
+}
+
+.enlarged-view img {
+    max-width: 50%;
+    max-height: 50%;
+    border: 3px solid white;
+}
