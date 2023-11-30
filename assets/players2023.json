@@ -1,0 +1,4290 @@
+{
+    "league": {
+        "standard": [
+            {
+                "draft_year": "Undrafted",
+                "firstName": "AJ",
+                "fullName": "AJ Green",
+                "lastName": "Green",
+                "personId": 1631260,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "AJ",
+                "fullName": "AJ Griffin",
+                "lastName": "Griffin",
+                "personId": 1631100,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Aaron",
+                "fullName": "Aaron Gordon",
+                "lastName": "Gordon",
+                "personId": 203932,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Aaron",
+                "fullName": "Aaron Holiday",
+                "lastName": "Holiday",
+                "personId": 1628988,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Aaron",
+                "fullName": "Aaron Nesmith",
+                "lastName": "Nesmith",
+                "personId": 1630174,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Aaron",
+                "fullName": "Aaron Wiggins",
+                "lastName": "Wiggins",
+                "personId": 1630598,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Admiral",
+                "fullName": "Admiral Schofield",
+                "lastName": "Schofield",
+                "personId": 1629678,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2007",
+                "firstName": "Al",
+                "fullName": "Al Horford",
+                "lastName": "Horford",
+                "personId": 201143,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Alec",
+                "fullName": "Alec Burks",
+                "lastName": "Burks",
+                "personId": 202692,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Aleksej",
+                "fullName": "Aleksej Pokusevski",
+                "lastName": "Pokusevski",
+                "personId": 1630197,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Alex",
+                "fullName": "Alex Caruso",
+                "lastName": "Caruso",
+                "personId": 1627936,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Alex",
+                "fullName": "Alex Fudge",
+                "lastName": "Fudge",
+                "personId": 1641788,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Alex",
+                "fullName": "Alex Len",
+                "lastName": "Len",
+                "personId": 203458,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Alperen",
+                "fullName": "Alperen Sengun",
+                "lastName": "Sengun",
+                "personId": 1630578,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Amari",
+                "fullName": "Amari Bailey",
+                "lastName": "Bailey",
+                "personId": 1641735,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Amen",
+                "fullName": "Amen Thompson",
+                "lastName": "Thompson",
+                "personId": 1641708,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Amir",
+                "fullName": "Amir Coffey",
+                "lastName": "Coffey",
+                "personId": 1629599,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Andre",
+                "fullName": "Andre Drummond",
+                "lastName": "Drummond",
+                "personId": 203083,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Andre",
+                "fullName": "Andre Jackson Jr.",
+                "lastName": "Jackson Jr.",
+                "personId": 1641748,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Andrew",
+                "fullName": "Andrew Nembhard",
+                "lastName": "Nembhard",
+                "personId": 1629614,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Andrew",
+                "fullName": "Andrew Wiggins",
+                "lastName": "Wiggins",
+                "personId": 203952,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Anfernee",
+                "fullName": "Anfernee Simons",
+                "lastName": "Simons",
+                "personId": 1629014,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Anthony",
+                "fullName": "Anthony Black",
+                "lastName": "Black",
+                "personId": 1641710,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Anthony",
+                "fullName": "Anthony Davis",
+                "lastName": "Davis",
+                "personId": 203076,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Anthony",
+                "fullName": "Anthony Edwards",
+                "lastName": "Edwards",
+                "personId": 1630162,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Anthony",
+                "fullName": "Anthony Gill",
+                "lastName": "Gill",
+                "personId": 1630264,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Armoni",
+                "fullName": "Armoni Brooks",
+                "lastName": "Brooks",
+                "personId": 1629717,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Ausar",
+                "fullName": "Ausar Thompson",
+                "lastName": "Thompson",
+                "personId": 1641709,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Austin",
+                "fullName": "Austin Reaves",
+                "lastName": "Reaves",
+                "personId": 1630559,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Ayo",
+                "fullName": "Ayo Dosunmu",
+                "lastName": "Dosunmu",
+                "personId": 1630245,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Bam",
+                "fullName": "Bam Adebayo",
+                "lastName": "Adebayo",
+                "personId": 1628389,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Ben",
+                "fullName": "Ben Sheppard",
+                "lastName": "Sheppard",
+                "personId": 1641767,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Ben",
+                "fullName": "Ben Simmons",
+                "lastName": "Simmons",
+                "personId": 1627732,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Bennedict",
+                "fullName": "Bennedict Mathurin",
+                "lastName": "Mathurin",
+                "personId": 1631097,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Bilal",
+                "fullName": "Bilal Coulibaly",
+                "lastName": "Coulibaly",
+                "personId": 1641731,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Bismack",
+                "fullName": "Bismack Biyombo",
+                "lastName": "Biyombo",
+                "personId": 202687,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Blake",
+                "fullName": "Blake Wesley",
+                "lastName": "Wesley",
+                "personId": 1631104,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Boban",
+                "fullName": "Boban Marjanovic",
+                "lastName": "Marjanovic",
+                "personId": 1626246,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Bobby",
+                "fullName": "Bobby Portis",
+                "lastName": "Portis",
+                "personId": 1626171,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Bogdan",
+                "fullName": "Bogdan Bogdanovic",
+                "lastName": "Bogdanovic",
+                "personId": 203992,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Bol",
+                "fullName": "Bol Bol",
+                "lastName": "Bol",
+                "personId": 1629626,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Bones",
+                "fullName": "Bones Hyland",
+                "lastName": "Hyland",
+                "personId": 1630538,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Bradley",
+                "fullName": "Bradley Beal",
+                "lastName": "Beal",
+                "personId": 203078,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Brandin",
+                "fullName": "Brandin Podziemski",
+                "lastName": "Podziemski",
+                "personId": 1641764,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Brandon",
+                "fullName": "Brandon Ingram",
+                "lastName": "Ingram",
+                "personId": 1627742,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Brandon",
+                "fullName": "Brandon Miller",
+                "lastName": "Miller",
+                "personId": 1641706,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Braxton",
+                "fullName": "Braxton Key",
+                "lastName": "Key",
+                "personId": 1630296,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Brice",
+                "fullName": "Brice Sensabaugh",
+                "lastName": "Sensabaugh",
+                "personId": 1641729,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Brook",
+                "fullName": "Brook Lopez",
+                "lastName": "Lopez",
+                "personId": 201572,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Bruce",
+                "fullName": "Bruce Brown",
+                "lastName": "Brown",
+                "personId": 1628971,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Bruno",
+                "fullName": "Bruno Fernando",
+                "lastName": "Fernando",
+                "personId": 1628981,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Bryce",
+                "fullName": "Bryce McGowens",
+                "lastName": "McGowens",
+                "personId": 1631121,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Buddy",
+                "fullName": "Buddy Hield",
+                "lastName": "Hield",
+                "personId": 1627741,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "CJ",
+                "fullName": "CJ McCollum",
+                "lastName": "McCollum",
+                "personId": 203468,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Cade",
+                "fullName": "Cade Cunningham",
+                "lastName": "Cunningham",
+                "personId": 1630595,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Caleb",
+                "fullName": "Caleb Houstan",
+                "lastName": "Houstan",
+                "personId": 1631216,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Caleb",
+                "fullName": "Caleb Martin",
+                "lastName": "Martin",
+                "personId": 1628997,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Cam",
+                "fullName": "Cam Reddish",
+                "lastName": "Reddish",
+                "personId": 1629629,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Cam",
+                "fullName": "Cam Thomas",
+                "lastName": "Thomas",
+                "personId": 1630560,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Cam",
+                "fullName": "Cam Whitmore",
+                "lastName": "Whitmore",
+                "personId": 1641715,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Cameron",
+                "fullName": "Cameron Johnson",
+                "lastName": "Johnson",
+                "personId": 1629661,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Cameron",
+                "fullName": "Cameron Payne",
+                "lastName": "Payne",
+                "personId": 1626166,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Caris",
+                "fullName": "Caris LeVert",
+                "lastName": "LeVert",
+                "personId": 1627747,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Cason",
+                "fullName": "Cason Wallace",
+                "lastName": "Wallace",
+                "personId": 1641717,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Cedi",
+                "fullName": "Cedi Osman",
+                "lastName": "Osman",
+                "personId": 1626224,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Charles",
+                "fullName": "Charles Bassey",
+                "lastName": "Bassey",
+                "personId": 1629646,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Chet",
+                "fullName": "Chet Holmgren",
+                "lastName": "Holmgren",
+                "personId": 1631096,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Chimezie",
+                "fullName": "Chimezie Metu",
+                "lastName": "Metu",
+                "personId": 1629002,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Chris",
+                "fullName": "Chris Boucher",
+                "lastName": "Boucher",
+                "personId": 1628449,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Chris",
+                "fullName": "Chris Duarte",
+                "lastName": "Duarte",
+                "personId": 1630537,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Chris",
+                "fullName": "Chris Livingston",
+                "lastName": "Livingston",
+                "personId": 1641753,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2005",
+                "firstName": "Chris",
+                "fullName": "Chris Paul",
+                "lastName": "Paul",
+                "personId": 101108,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Christian",
+                "fullName": "Christian Braun",
+                "lastName": "Braun",
+                "personId": 1631128,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Christian",
+                "fullName": "Christian Wood",
+                "lastName": "Wood",
+                "personId": 1626174,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Chuma",
+                "fullName": "Chuma Okeke",
+                "lastName": "Okeke",
+                "personId": 1629643,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Clint",
+                "fullName": "Clint Capela",
+                "lastName": "Capela",
+                "personId": 203991,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Coby",
+                "fullName": "Coby White",
+                "lastName": "White",
+                "personId": 1629632,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Cody",
+                "fullName": "Cody Zeller",
+                "lastName": "Zeller",
+                "personId": 203469,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Colby",
+                "fullName": "Colby Jones",
+                "lastName": "Jones",
+                "personId": 1641732,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Cole",
+                "fullName": "Cole Anthony",
+                "lastName": "Anthony",
+                "personId": 1630175,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Cole",
+                "fullName": "Cole Swider",
+                "lastName": "Swider",
+                "personId": 1631306,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Colin",
+                "fullName": "Colin Castleton",
+                "lastName": "Castleton",
+                "personId": 1630658,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Collin",
+                "fullName": "Collin Gillespie",
+                "lastName": "Gillespie",
+                "personId": 1631221,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Collin",
+                "fullName": "Collin Sexton",
+                "lastName": "Sexton",
+                "personId": 1629012,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Corey",
+                "fullName": "Corey Kispert",
+                "lastName": "Kispert",
+                "personId": 1630557,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Cory",
+                "fullName": "Cory Joseph",
+                "lastName": "Joseph",
+                "personId": 202709,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Craig",
+                "fullName": "Craig Porter",
+                "lastName": "Porter",
+                "personId": 1641854,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "D'Angelo",
+                "fullName": "D'Angelo Russell",
+                "lastName": "Russell",
+                "personId": 1626156,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "D'Moi",
+                "fullName": "D'Moi Hodge",
+                "lastName": "Hodge",
+                "personId": 1641793,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "DaQuan",
+                "fullName": "DaQuan Jeffries",
+                "lastName": "Jeffries",
+                "personId": 1629610,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Daishen",
+                "fullName": "Daishen Nix",
+                "lastName": "Nix",
+                "personId": 1630227,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Dalano",
+                "fullName": "Dalano Banton",
+                "lastName": "Banton",
+                "personId": 1630625,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Dalen",
+                "fullName": "Dalen Terry",
+                "lastName": "Terry",
+                "personId": 1631207,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Damian",
+                "fullName": "Damian Jones",
+                "lastName": "Jones",
+                "personId": 1627745,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Damian",
+                "fullName": "Damian Lillard",
+                "lastName": "Lillard",
+                "personId": 203081,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Daniel",
+                "fullName": "Daniel Gafford",
+                "lastName": "Gafford",
+                "personId": 1629655,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Daniel",
+                "fullName": "Daniel Theis",
+                "lastName": "Theis",
+                "personId": 1628464,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Danilo",
+                "fullName": "Danilo Gallinari",
+                "lastName": "Gallinari",
+                "personId": 201568,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2009",
+                "firstName": "Danny",
+                "fullName": "Danny Green",
+                "lastName": "Green",
+                "personId": 201980,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Dante",
+                "fullName": "Dante Exum",
+                "lastName": "Exum",
+                "personId": 203957,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Danuel",
+                "fullName": "Danuel House Jr.",
+                "lastName": "House Jr.",
+                "personId": 1627863,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Dario",
+                "fullName": "Dario Saric",
+                "lastName": "Saric",
+                "personId": 203967,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Darius",
+                "fullName": "Darius Garland",
+                "lastName": "Garland",
+                "personId": 1629636,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "David",
+                "fullName": "David Roddy",
+                "lastName": "Roddy",
+                "personId": 1631223,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Davion",
+                "fullName": "Davion Mitchell",
+                "lastName": "Mitchell",
+                "personId": 1630558,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Davis",
+                "fullName": "Davis Bertans",
+                "lastName": "Bertans",
+                "personId": 202722,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Day'Ron",
+                "fullName": "Day'Ron Sharpe",
+                "lastName": "Sharpe",
+                "personId": 1630549,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "De'Aaron",
+                "fullName": "De'Aaron Fox",
+                "lastName": "Fox",
+                "personId": 1628368,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "De'Andre",
+                "fullName": "De'Andre Hunter",
+                "lastName": "Hunter",
+                "personId": 1629631,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "De'Anthony",
+                "fullName": "De'Anthony Melton",
+                "lastName": "Melton",
+                "personId": 1629001,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "DeAndre",
+                "fullName": "DeAndre Jordan",
+                "lastName": "Jordan",
+                "personId": 201599,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2009",
+                "firstName": "DeMar",
+                "fullName": "DeMar DeRozan",
+                "lastName": "DeRozan",
+                "personId": 201942,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Dean",
+                "fullName": "Dean Wade",
+                "lastName": "Wade",
+                "personId": 1629731,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Deandre",
+                "fullName": "Deandre Ayton",
+                "lastName": "Ayton",
+                "personId": 1629028,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Dejounte",
+                "fullName": "Dejounte Murray",
+                "lastName": "Murray",
+                "personId": 1627749,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Delon",
+                "fullName": "Delon Wright",
+                "lastName": "Wright",
+                "personId": 1626153,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Deni",
+                "fullName": "Deni Avdija",
+                "lastName": "Avdija",
+                "personId": 1630166,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Dennis",
+                "fullName": "Dennis Schroder",
+                "lastName": "Schroder",
+                "personId": 203471,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Dennis",
+                "fullName": "Dennis Smith Jr.",
+                "lastName": "Smith Jr.",
+                "personId": 1628372,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Dereck",
+                "fullName": "Dereck Lively II",
+                "lastName": "Lively II",
+                "personId": 1641726,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Dereon",
+                "fullName": "Dereon Seabron",
+                "lastName": "Seabron",
+                "personId": 1631220,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Derrick",
+                "fullName": "Derrick Jones Jr.",
+                "lastName": "Jones Jr.",
+                "personId": 1627884,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Derrick",
+                "fullName": "Derrick Rose",
+                "lastName": "Rose",
+                "personId": 201565,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Derrick",
+                "fullName": "Derrick White",
+                "lastName": "White",
+                "personId": 1628401,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Desmond",
+                "fullName": "Desmond Bane",
+                "lastName": "Bane",
+                "personId": 1630217,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Devin",
+                "fullName": "Devin Booker",
+                "lastName": "Booker",
+                "personId": 1626164,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Devin",
+                "fullName": "Devin Vassell",
+                "lastName": "Vassell",
+                "personId": 1630170,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Devonte'",
+                "fullName": "Devonte' Graham",
+                "lastName": "Graham",
+                "personId": 1628984,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Dillon",
+                "fullName": "Dillon Brooks",
+                "lastName": "Brooks",
+                "personId": 1628415,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Domantas",
+                "fullName": "Domantas Sabonis",
+                "lastName": "Sabonis",
+                "personId": 1627734,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Dominick",
+                "fullName": "Dominick Barlow",
+                "lastName": "Barlow",
+                "personId": 1631230,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Donovan",
+                "fullName": "Donovan Mitchell",
+                "lastName": "Mitchell",
+                "personId": 1628378,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Donte",
+                "fullName": "Donte DiVincenzo",
+                "lastName": "DiVincenzo",
+                "personId": 1628978,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Dorian",
+                "fullName": "Dorian Finney-Smith",
+                "lastName": "Finney-Smith",
+                "personId": 1627827,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Doug",
+                "fullName": "Doug McDermott",
+                "lastName": "McDermott",
+                "personId": 203926,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Draymond",
+                "fullName": "Draymond Green",
+                "lastName": "Green",
+                "personId": 203110,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Drew",
+                "fullName": "Drew Eubanks",
+                "lastName": "Eubanks",
+                "personId": 1629234,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Dru",
+                "fullName": "Dru Smith",
+                "lastName": "Smith",
+                "personId": 1630696,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Duncan",
+                "fullName": "Duncan Robinson",
+                "lastName": "Robinson",
+                "personId": 1629130,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Duop",
+                "fullName": "Duop Reath",
+                "lastName": "Reath",
+                "personId": 1641871,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Dwight",
+                "fullName": "Dwight Powell",
+                "lastName": "Powell",
+                "personId": 203939,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Dylan",
+                "fullName": "Dylan Windler",
+                "lastName": "Windler",
+                "personId": 1629685,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Dyson",
+                "fullName": "Dyson Daniels",
+                "lastName": "Daniels",
+                "personId": 1630700,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "E.J.",
+                "fullName": "E.J. Liddell",
+                "lastName": "Liddell",
+                "personId": 1630604,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Emoni",
+                "fullName": "Emoni Bates",
+                "lastName": "Bates",
+                "personId": 1641734,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Eric",
+                "fullName": "Eric Gordon",
+                "lastName": "Gordon",
+                "personId": 201569,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Eugene",
+                "fullName": "Eugene Omoruyi",
+                "lastName": "Omoruyi",
+                "personId": 1630647,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Evan",
+                "fullName": "Evan Fournier",
+                "lastName": "Fournier",
+                "personId": 203095,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Evan",
+                "fullName": "Evan Mobley",
+                "lastName": "Mobley",
+                "personId": 1630596,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Filip",
+                "fullName": "Filip Petrusev",
+                "lastName": "Petrusev",
+                "personId": 1630196,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Franz",
+                "fullName": "Franz Wagner",
+                "lastName": "Wagner",
+                "personId": 1630532,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Fred",
+                "fullName": "Fred VanVleet",
+                "lastName": "VanVleet",
+                "personId": 1627832,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Furkan",
+                "fullName": "Furkan Korkmaz",
+                "lastName": "Korkmaz",
+                "personId": 1627788,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "GG",
+                "fullName": "GG Jackson",
+                "lastName": "Jackson",
+                "personId": 1641713,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Gabe",
+                "fullName": "Gabe Vincent",
+                "lastName": "Vincent",
+                "personId": 1629216,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Garrett",
+                "fullName": "Garrett Temple",
+                "lastName": "Temple",
+                "personId": 202066,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Garrison",
+                "fullName": "Garrison Mathews",
+                "lastName": "Mathews",
+                "personId": 1629726,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Gary",
+                "fullName": "Gary Harris",
+                "lastName": "Harris",
+                "personId": 203914,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Gary",
+                "fullName": "Gary Payton II",
+                "lastName": "Payton II",
+                "personId": 1627780,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Gary",
+                "fullName": "Gary Trent Jr.",
+                "lastName": "Trent Jr.",
+                "personId": 1629018,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Georges",
+                "fullName": "Georges Niang",
+                "lastName": "Niang",
+                "personId": 1627777,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Giannis",
+                "fullName": "Giannis Antetokounmpo",
+                "lastName": "Antetokounmpo",
+                "personId": 203507,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Goga",
+                "fullName": "Goga Bitadze",
+                "lastName": "Bitadze",
+                "personId": 1629048,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2010",
+                "firstName": "Gordon",
+                "fullName": "Gordon Hayward",
+                "lastName": "Hayward",
+                "personId": 202330,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Gradey",
+                "fullName": "Gradey Dick",
+                "lastName": "Dick",
+                "personId": 1641711,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Grant",
+                "fullName": "Grant Williams",
+                "lastName": "Williams",
+                "personId": 1629684,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Grayson",
+                "fullName": "Grayson Allen",
+                "lastName": "Allen",
+                "personId": 1628960,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Gui",
+                "fullName": "Gui Santos",
+                "lastName": "Santos",
+                "personId": 1630611,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Harrison",
+                "fullName": "Harrison Barnes",
+                "lastName": "Barnes",
+                "personId": 203084,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Harry",
+                "fullName": "Harry Giles III",
+                "lastName": "Giles III",
+                "personId": 1628385,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Haywood",
+                "fullName": "Haywood Highsmith",
+                "lastName": "Highsmith",
+                "personId": 1629312,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Herbert",
+                "fullName": "Herbert Jones",
+                "lastName": "Jones",
+                "personId": 1630529,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Hunter",
+                "fullName": "Hunter Tyson",
+                "lastName": "Tyson",
+                "personId": 1641816,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Immanuel",
+                "fullName": "Immanuel Quickley",
+                "lastName": "Quickley",
+                "personId": 1630193,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Isaac",
+                "fullName": "Isaac Okoro",
+                "lastName": "Okoro",
+                "personId": 1630171,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Isaiah",
+                "fullName": "Isaiah Hartenstein",
+                "lastName": "Hartenstein",
+                "personId": 1628392,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Isaiah",
+                "fullName": "Isaiah Jackson",
+                "lastName": "Jackson",
+                "personId": 1630543,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Isaiah",
+                "fullName": "Isaiah Joe",
+                "lastName": "Joe",
+                "personId": 1630198,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Isaiah",
+                "fullName": "Isaiah Livers",
+                "lastName": "Livers",
+                "personId": 1630587,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Isaiah",
+                "fullName": "Isaiah Mobley",
+                "lastName": "Mobley",
+                "personId": 1630600,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Isaiah",
+                "fullName": "Isaiah Stewart",
+                "lastName": "Stewart",
+                "personId": 1630191,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Ish",
+                "fullName": "Ish Smith",
+                "lastName": "Smith",
+                "personId": 202397,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Ish",
+                "fullName": "Ish Wainright",
+                "lastName": "Wainright",
+                "personId": 1630688,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Ivica",
+                "fullName": "Ivica Zubac",
+                "lastName": "Zubac",
+                "personId": 1627826,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "JT",
+                "fullName": "JT Thor",
+                "lastName": "Thor",
+                "personId": 1630550,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "JaVale",
+                "fullName": "JaVale McGee",
+                "lastName": "McGee",
+                "personId": 201580,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jabari",
+                "fullName": "Jabari Smith Jr.",
+                "lastName": "Smith Jr.",
+                "personId": 1631095,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jabari",
+                "fullName": "Jabari Walker",
+                "lastName": "Walker",
+                "personId": 1631133,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jacob",
+                "fullName": "Jacob Gilyard",
+                "lastName": "Gilyard",
+                "personId": 1631367,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jaden",
+                "fullName": "Jaden Hardy",
+                "lastName": "Hardy",
+                "personId": 1630702,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jaden",
+                "fullName": "Jaden Ivey",
+                "lastName": "Ivey",
+                "personId": 1631093,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Jaden",
+                "fullName": "Jaden McDaniels",
+                "lastName": "McDaniels",
+                "personId": 1630183,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jaden",
+                "fullName": "Jaden Springer",
+                "lastName": "Springer",
+                "personId": 1630531,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Jae",
+                "fullName": "Jae Crowder",
+                "lastName": "Crowder",
+                "personId": 203109,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jae'Sean",
+                "fullName": "Jae'Sean Tate",
+                "lastName": "Tate",
+                "personId": 1630256,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jaime",
+                "fullName": "Jaime Jaquez Jr.",
+                "lastName": "Jaquez Jr.",
+                "personId": 1631170,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jake",
+                "fullName": "Jake LaRavia",
+                "lastName": "LaRavia",
+                "personId": 1631222,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Jakob",
+                "fullName": "Jakob Poeltl",
+                "lastName": "Poeltl",
+                "personId": 1627751,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Jalen",
+                "fullName": "Jalen Brunson",
+                "lastName": "Brunson",
+                "personId": 1628973,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jalen",
+                "fullName": "Jalen Duren",
+                "lastName": "Duren",
+                "personId": 1631105,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jalen",
+                "fullName": "Jalen Green",
+                "lastName": "Green",
+                "personId": 1630224,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jalen",
+                "fullName": "Jalen Johnson",
+                "lastName": "Johnson",
+                "personId": 1630552,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Jalen",
+                "fullName": "Jalen McDaniels",
+                "lastName": "McDaniels",
+                "personId": 1629667,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jalen",
+                "fullName": "Jalen Pickett",
+                "lastName": "Pickett",
+                "personId": 1629618,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jalen",
+                "fullName": "Jalen Slawson",
+                "lastName": "Slawson",
+                "personId": 1641771,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Jalen",
+                "fullName": "Jalen Smith",
+                "lastName": "Smith",
+                "personId": 1630188,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jalen",
+                "fullName": "Jalen Suggs",
+                "lastName": "Suggs",
+                "personId": 1630591,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jalen",
+                "fullName": "Jalen Williams",
+                "lastName": "Williams",
+                "personId": 1631114,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jalen",
+                "fullName": "Jalen Wilson",
+                "lastName": "Wilson",
+                "personId": 1630592,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jamal",
+                "fullName": "Jamal Cain",
+                "lastName": "Cain",
+                "personId": 1631288,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Jamal",
+                "fullName": "Jamal Murray",
+                "lastName": "Murray",
+                "personId": 1627750,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jamaree",
+                "fullName": "Jamaree Bouyea",
+                "lastName": "Bouyea",
+                "personId": 1631123,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2009",
+                "firstName": "James",
+                "fullName": "James Harden",
+                "lastName": "Harden",
+                "personId": 201935,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "James",
+                "fullName": "James Wiseman",
+                "lastName": "Wiseman",
+                "personId": 1630164,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jarace",
+                "fullName": "Jarace Walker",
+                "lastName": "Walker",
+                "personId": 1641716,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jared",
+                "fullName": "Jared Butler",
+                "lastName": "Butler",
+                "personId": 1630215,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jared",
+                "fullName": "Jared Rhoden",
+                "lastName": "Rhoden",
+                "personId": 1631197,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Jaren",
+                "fullName": "Jaren Jackson Jr.",
+                "lastName": "Jackson Jr.",
+                "personId": 1628991,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Jarrett",
+                "fullName": "Jarrett Allen",
+                "lastName": "Allen",
+                "personId": 1628386,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Jaxson",
+                "fullName": "Jaxson Hayes",
+                "lastName": "Hayes",
+                "personId": 1629637,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Jaylen",
+                "fullName": "Jaylen Brown",
+                "lastName": "Brown",
+                "personId": 1627759,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jaylin",
+                "fullName": "Jaylin Williams",
+                "lastName": "Williams",
+                "personId": 1631119,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Jayson",
+                "fullName": "Jayson Tatum",
+                "lastName": "Tatum",
+                "personId": 1628369,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2007",
+                "firstName": "Jeff",
+                "fullName": "Jeff Green",
+                "lastName": "Green",
+                "personId": 201145,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Jerami",
+                "fullName": "Jerami Grant",
+                "lastName": "Grant",
+                "personId": 203924,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jeremiah",
+                "fullName": "Jeremiah Robinson-Earl",
+                "lastName": "Robinson-Earl",
+                "personId": 1630526,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Jeremy",
+                "fullName": "Jeremy Sochan",
+                "lastName": "Sochan",
+                "personId": 1631110,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jericho",
+                "fullName": "Jericho Sims",
+                "lastName": "Sims",
+                "personId": 1630579,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jermaine",
+                "fullName": "Jermaine Samuels Jr.",
+                "lastName": "Samuels Jr.",
+                "personId": 1631257,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Jerome",
+                "fullName": "Jerome Robinson",
+                "lastName": "Robinson",
+                "personId": 1629010,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jett",
+                "fullName": "Jett Howard",
+                "lastName": "Howard",
+                "personId": 1641724,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Jevon",
+                "fullName": "Jevon Carter",
+                "lastName": "Carter",
+                "personId": 1628975,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Jimmy",
+                "fullName": "Jimmy Butler",
+                "lastName": "Butler",
+                "personId": 202710,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jock",
+                "fullName": "Jock Landale",
+                "lastName": "Landale",
+                "personId": 1629111,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Joe",
+                "fullName": "Joe Harris",
+                "lastName": "Harris",
+                "personId": 203925,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Joe",
+                "fullName": "Joe Ingles",
+                "lastName": "Ingles",
+                "personId": 204060,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Joel",
+                "fullName": "Joel Embiid",
+                "lastName": "Embiid",
+                "personId": 203954,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "John",
+                "fullName": "John Collins",
+                "lastName": "Collins",
+                "personId": 1628381,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "John",
+                "fullName": "John Konchar",
+                "lastName": "Konchar",
+                "personId": 1629723,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Johnny",
+                "fullName": "Johnny Davis",
+                "lastName": "Davis",
+                "personId": 1631098,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Jonas",
+                "fullName": "Jonas Valanciunas",
+                "lastName": "Valanciunas",
+                "personId": 202685,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Jonathan",
+                "fullName": "Jonathan Isaac",
+                "lastName": "Isaac",
+                "personId": 1628371,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Jonathan",
+                "fullName": "Jonathan Kuminga",
+                "lastName": "Kuminga",
+                "personId": 1630228,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Jordan",
+                "fullName": "Jordan Clarkson",
+                "lastName": "Clarkson",
+                "personId": 203903,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jordan",
+                "fullName": "Jordan Ford",
+                "lastName": "Ford",
+                "personId": 1630259,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jordan",
+                "fullName": "Jordan Goodwin",
+                "lastName": "Goodwin",
+                "personId": 1630692,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jordan",
+                "fullName": "Jordan Hawkins",
+                "lastName": "Hawkins",
+                "personId": 1641722,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jordan",
+                "fullName": "Jordan McLaughlin",
+                "lastName": "McLaughlin",
+                "personId": 1629162,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Jordan",
+                "fullName": "Jordan Miller",
+                "lastName": "Miller",
+                "personId": 1641757,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Jordan",
+                "fullName": "Jordan Nwora",
+                "lastName": "Nwora",
+                "personId": 1629670,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Jordan",
+                "fullName": "Jordan Poole",
+                "lastName": "Poole",
+                "personId": 1629673,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Jose",
+                "fullName": "Jose Alvarado",
+                "lastName": "Alvarado",
+                "personId": 1630631,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Josh",
+                "fullName": "Josh Giddey",
+                "lastName": "Giddey",
+                "personId": 1630581,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Josh",
+                "fullName": "Josh Green",
+                "lastName": "Green",
+                "personId": 1630182,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Josh",
+                "fullName": "Josh Hart",
+                "lastName": "Hart",
+                "personId": 1628404,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Josh",
+                "fullName": "Josh Minott",
+                "lastName": "Minott",
+                "personId": 1631169,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Josh",
+                "fullName": "Josh Okogie",
+                "lastName": "Okogie",
+                "personId": 1629006,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Josh",
+                "fullName": "Josh Richardson",
+                "lastName": "Richardson",
+                "personId": 1626196,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2009",
+                "firstName": "Jrue",
+                "fullName": "Jrue Holiday",
+                "lastName": "Holiday",
+                "personId": 201950,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Julian",
+                "fullName": "Julian Champagnie",
+                "lastName": "Champagnie",
+                "personId": 1630577,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Julian",
+                "fullName": "Julian Phillips",
+                "lastName": "Phillips",
+                "personId": 1641763,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Julian",
+                "fullName": "Julian Strawther",
+                "lastName": "Strawther",
+                "personId": 1631124,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Julius",
+                "fullName": "Julius Randle",
+                "lastName": "Randle",
+                "personId": 203944,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Justin",
+                "fullName": "Justin Holiday",
+                "lastName": "Holiday",
+                "personId": 203200,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Justin",
+                "fullName": "Justin Minaya",
+                "lastName": "Minaya",
+                "personId": 1631303,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Jusuf",
+                "fullName": "Jusuf Nurkic",
+                "lastName": "Nurkic",
+                "personId": 203994,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "KJ",
+                "fullName": "KJ Martin",
+                "lastName": "Martin",
+                "personId": 1630231,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Kaiser",
+                "fullName": "Kaiser Gates",
+                "lastName": "Gates",
+                "personId": 1629232,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Karl-Anthony",
+                "fullName": "Karl-Anthony Towns",
+                "lastName": "Towns",
+                "personId": 1626157,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Kawhi",
+                "fullName": "Kawhi Leonard",
+                "lastName": "Leonard",
+                "personId": 202695,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Keegan",
+                "fullName": "Keegan Murray",
+                "lastName": "Murray",
+                "personId": 1631099,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Keita",
+                "fullName": "Keita Bates-Diop",
+                "lastName": "Bates-Diop",
+                "personId": 1628966,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Keldon",
+                "fullName": "Keldon Johnson",
+                "lastName": "Johnson",
+                "personId": 1629640,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Kelly",
+                "fullName": "Kelly Olynyk",
+                "lastName": "Olynyk",
+                "personId": 203482,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Kelly",
+                "fullName": "Kelly Oubre Jr.",
+                "lastName": "Oubre Jr.",
+                "personId": 1626162,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Kenneth",
+                "fullName": "Kenneth Lofton Jr.",
+                "lastName": "Lofton Jr.",
+                "personId": 1631254,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Kenrich",
+                "fullName": "Kenrich Williams",
+                "lastName": "Williams",
+                "personId": 1629026,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Kentavious",
+                "fullName": "Kentavious Caldwell-Pope",
+                "lastName": "Caldwell-Pope",
+                "personId": 203484,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Keon",
+                "fullName": "Keon Ellis",
+                "lastName": "Ellis",
+                "personId": 1631165,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Kessler",
+                "fullName": "Kessler Edwards",
+                "lastName": "Edwards",
+                "personId": 1630556,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2007",
+                "firstName": "Kevin",
+                "fullName": "Kevin Durant",
+                "lastName": "Durant",
+                "personId": 201142,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Kevin",
+                "fullName": "Kevin Huerter",
+                "lastName": "Huerter",
+                "personId": 1628989,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Kevin",
+                "fullName": "Kevin Knox II",
+                "lastName": "Knox II",
+                "personId": 1628995,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Kevin",
+                "fullName": "Kevin Love",
+                "lastName": "Love",
+                "personId": 201567,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Kevon",
+                "fullName": "Kevon Looney",
+                "lastName": "Looney",
+                "personId": 1626172,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Keyontae",
+                "fullName": "Keyontae Johnson",
+                "lastName": "Johnson",
+                "personId": 1641749,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Keyonte",
+                "fullName": "Keyonte George",
+                "lastName": "George",
+                "personId": 1641718,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2012",
+                "firstName": "Khris",
+                "fullName": "Khris Middleton",
+                "lastName": "Middleton",
+                "personId": 203114,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Killian",
+                "fullName": "Killian Hayes",
+                "lastName": "Hayes",
+                "personId": 1630165,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Kira",
+                "fullName": "Kira Lewis Jr.",
+                "lastName": "Lewis Jr.",
+                "personId": 1630184,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Klay",
+                "fullName": "Klay Thompson",
+                "lastName": "Thompson",
+                "personId": 202691,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Kobe",
+                "fullName": "Kobe Brown",
+                "lastName": "Brown",
+                "personId": 1641738,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Kobe",
+                "fullName": "Kobe Bufkin",
+                "lastName": "Bufkin",
+                "personId": 1641723,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Kris",
+                "fullName": "Kris Dunn",
+                "lastName": "Dunn",
+                "personId": 1627739,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Kris",
+                "fullName": "Kris Murray",
+                "lastName": "Murray",
+                "personId": 1631200,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Kristaps",
+                "fullName": "Kristaps Porzingis",
+                "lastName": "Porzingis",
+                "personId": 204001,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Kyle",
+                "fullName": "Kyle Anderson",
+                "lastName": "Anderson",
+                "personId": 203937,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Kyle",
+                "fullName": "Kyle Kuzma",
+                "lastName": "Kuzma",
+                "personId": 1628398,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2006",
+                "firstName": "Kyle",
+                "fullName": "Kyle Lowry",
+                "lastName": "Lowry",
+                "personId": 200768,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Kyrie",
+                "fullName": "Kyrie Irving",
+                "lastName": "Irving",
+                "personId": 202681,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "LaMelo",
+                "fullName": "LaMelo Ball",
+                "lastName": "Ball",
+                "personId": 1630163,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Lamar",
+                "fullName": "Lamar Stevens",
+                "lastName": "Stevens",
+                "personId": 1630205,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Landry",
+                "fullName": "Landry Shamet",
+                "lastName": "Shamet",
+                "personId": 1629013,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Larry",
+                "fullName": "Larry Nance Jr.",
+                "lastName": "Nance Jr.",
+                "personId": 1626204,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Lauri",
+                "fullName": "Lauri Markkanen",
+                "lastName": "Markkanen",
+                "personId": 1628374,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2003",
+                "firstName": "LeBron",
+                "fullName": "LeBron James",
+                "lastName": "James",
+                "personId": 2544,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Leaky",
+                "fullName": "Leaky Black",
+                "lastName": "Black",
+                "personId": 1641778,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Leonard",
+                "fullName": "Leonard Miller",
+                "lastName": "Miller",
+                "personId": 1631159,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Lester",
+                "fullName": "Lester Quinones",
+                "lastName": "Quinones",
+                "personId": 1631311,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Lindell",
+                "fullName": "Lindell Wigginton",
+                "lastName": "Wigginton",
+                "personId": 1629623,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Lindy",
+                "fullName": "Lindy Waters III",
+                "lastName": "Waters III",
+                "personId": 1630322,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Lonnie",
+                "fullName": "Lonnie Walker IV",
+                "lastName": "Walker IV",
+                "personId": 1629022,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Luguentz",
+                "fullName": "Luguentz Dort",
+                "lastName": "Dort",
+                "personId": 1629652,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Luka",
+                "fullName": "Luka Doncic",
+                "lastName": "Doncic",
+                "personId": 1629029,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Luka",
+                "fullName": "Luka Garza",
+                "lastName": "Garza",
+                "personId": 1630568,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Luka",
+                "fullName": "Luka Samanic",
+                "lastName": "Samanic",
+                "personId": 1629677,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Luke",
+                "fullName": "Luke Kennard",
+                "lastName": "Kennard",
+                "personId": 1628379,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Luke",
+                "fullName": "Luke Kornet",
+                "lastName": "Kornet",
+                "personId": 1628436,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Malachi",
+                "fullName": "Malachi Flynn",
+                "lastName": "Flynn",
+                "personId": 1630201,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Malaki",
+                "fullName": "Malaki Branham",
+                "lastName": "Branham",
+                "personId": 1631103,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Malcolm",
+                "fullName": "Malcolm Brogdon",
+                "lastName": "Brogdon",
+                "personId": 1627763,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Malcolm",
+                "fullName": "Malcolm Cazalon",
+                "lastName": "Cazalon",
+                "personId": 1630608,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Malik",
+                "fullName": "Malik Beasley",
+                "lastName": "Beasley",
+                "personId": 1627736,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Malik",
+                "fullName": "Malik Monk",
+                "lastName": "Monk",
+                "personId": 1628370,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "MarJon",
+                "fullName": "MarJon Beauchamp",
+                "lastName": "Beauchamp",
+                "personId": 1630699,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Marcus",
+                "fullName": "Marcus Morris Sr.",
+                "lastName": "Morris Sr.",
+                "personId": 202694,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Marcus",
+                "fullName": "Marcus Sasser",
+                "lastName": "Sasser",
+                "personId": 1631204,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Marcus",
+                "fullName": "Marcus Smart",
+                "lastName": "Smart",
+                "personId": 203935,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Mark",
+                "fullName": "Mark Williams",
+                "lastName": "Williams",
+                "personId": 1631109,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Markelle",
+                "fullName": "Markelle Fultz",
+                "lastName": "Fultz",
+                "personId": 1628365,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Markieff",
+                "fullName": "Markieff Morris",
+                "lastName": "Morris",
+                "personId": 202693,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Markquis",
+                "fullName": "Markquis Nowell",
+                "lastName": "Nowell",
+                "personId": 1641806,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Marques",
+                "fullName": "Marques Bolden",
+                "lastName": "Bolden",
+                "personId": 1629716,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Marvin",
+                "fullName": "Marvin Bagley III",
+                "lastName": "Bagley III",
+                "personId": 1628963,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Mason",
+                "fullName": "Mason Plumlee",
+                "lastName": "Plumlee",
+                "personId": 203486,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Matisse",
+                "fullName": "Matisse Thybulle",
+                "lastName": "Thybulle",
+                "personId": 1629680,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Matt",
+                "fullName": "Matt Ryan",
+                "lastName": "Ryan",
+                "personId": 1630346,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Max",
+                "fullName": "Max Christie",
+                "lastName": "Christie",
+                "personId": 1631108,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Max",
+                "fullName": "Max Strus",
+                "lastName": "Strus",
+                "personId": 1629622,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Maxi",
+                "fullName": "Maxi Kleber",
+                "lastName": "Kleber",
+                "personId": 1628467,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Maxwell",
+                "fullName": "Maxwell Lewis",
+                "lastName": "Lewis",
+                "personId": 1641721,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Michael",
+                "fullName": "Michael Porter Jr.",
+                "lastName": "Porter Jr.",
+                "personId": 1629008,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Mikal",
+                "fullName": "Mikal Bridges",
+                "lastName": "Bridges",
+                "personId": 1628969,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2007",
+                "firstName": "Mike",
+                "fullName": "Mike Conley",
+                "lastName": "Conley",
+                "personId": 201144,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Mike",
+                "fullName": "Mike Muscala",
+                "lastName": "Muscala",
+                "personId": 203488,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Miles",
+                "fullName": "Miles Bridges",
+                "lastName": "Bridges",
+                "personId": 1628970,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Miles",
+                "fullName": "Miles McBride",
+                "lastName": "McBride",
+                "personId": 1630540,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Mitchell",
+                "fullName": "Mitchell Robinson",
+                "lastName": "Robinson",
+                "personId": 1629011,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Mo",
+                "fullName": "Mo Bamba",
+                "lastName": "Bamba",
+                "personId": 1628964,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Moritz",
+                "fullName": "Moritz Wagner",
+                "lastName": "Wagner",
+                "personId": 1629021,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Moses",
+                "fullName": "Moses Brown",
+                "lastName": "Brown",
+                "personId": 1629650,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Moses",
+                "fullName": "Moses Moody",
+                "lastName": "Moody",
+                "personId": 1630541,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Mouhamed",
+                "fullName": "Mouhamed Gueye",
+                "lastName": "Gueye",
+                "personId": 1631243,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Moussa",
+                "fullName": "Moussa Diabate",
+                "lastName": "Diabate",
+                "personId": 1631217,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Myles",
+                "fullName": "Myles Turner",
+                "lastName": "Turner",
+                "personId": 1626167,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Naji",
+                "fullName": "Naji Marshall",
+                "lastName": "Marshall",
+                "personId": 1630230,
+                "season": "2023",
+                "teamId": 1610612740
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Nassir",
+                "fullName": "Nassir Little",
+                "lastName": "Little",
+                "personId": 1629642,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Nate",
+                "fullName": "Nate Hinton",
+                "lastName": "Hinton",
+                "personId": 1630207,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Nate",
+                "fullName": "Nate Williams",
+                "lastName": "Williams",
+                "personId": 1631466,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Naz",
+                "fullName": "Naz Reid",
+                "lastName": "Reid",
+                "personId": 1629675,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Neemias",
+                "fullName": "Neemias Queta",
+                "lastName": "Queta",
+                "personId": 1629674,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Nic",
+                "fullName": "Nic Claxton",
+                "lastName": "Claxton",
+                "personId": 1629651,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Nick",
+                "fullName": "Nick Richards",
+                "lastName": "Richards",
+                "personId": 1630208,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Nick",
+                "fullName": "Nick Smith Jr.",
+                "lastName": "Smith Jr.",
+                "personId": 1641733,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Nickeil",
+                "fullName": "Nickeil Alexander-Walker",
+                "lastName": "Alexander-Walker",
+                "personId": 1629638,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Nicolas",
+                "fullName": "Nicolas Batum",
+                "lastName": "Batum",
+                "personId": 201587,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Nikola",
+                "fullName": "Nikola Jokic",
+                "lastName": "Jokic",
+                "personId": 203999,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Nikola",
+                "fullName": "Nikola Jovic",
+                "lastName": "Jovic",
+                "personId": 1631107,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Nikola",
+                "fullName": "Nikola Vucevic",
+                "lastName": "Vucevic",
+                "personId": 202696,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Norman",
+                "fullName": "Norman Powell",
+                "lastName": "Powell",
+                "personId": 1626181,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "OG",
+                "fullName": "OG Anunoby",
+                "lastName": "Anunoby",
+                "personId": 1628384,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Obi",
+                "fullName": "Obi Toppin",
+                "lastName": "Toppin",
+                "personId": 1630167,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Ochai",
+                "fullName": "Ochai Agbaji",
+                "lastName": "Agbaji",
+                "personId": 1630534,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Olivier",
+                "fullName": "Olivier Sarr",
+                "lastName": "Sarr",
+                "personId": 1630846,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Olivier-Maxence",
+                "fullName": "Olivier-Maxence Prosper",
+                "lastName": "Prosper",
+                "personId": 1641765,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Omer",
+                "fullName": "Omer Yurtseven",
+                "lastName": "Yurtseven",
+                "personId": 1630209,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Onuralp",
+                "fullName": "Onuralp Bitim",
+                "lastName": "Bitim",
+                "personId": 1641931,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Onyeka",
+                "fullName": "Onyeka Okongwu",
+                "lastName": "Okongwu",
+                "personId": 1630168,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Orlando",
+                "fullName": "Orlando Robinson",
+                "lastName": "Robinson",
+                "personId": 1631115,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Oshae",
+                "fullName": "Oshae Brissett",
+                "lastName": "Brissett",
+                "personId": 1629052,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Otto",
+                "fullName": "Otto Porter Jr.",
+                "lastName": "Porter Jr.",
+                "personId": 203490,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Ousmane",
+                "fullName": "Ousmane Dieng",
+                "lastName": "Dieng",
+                "personId": 1631172,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2006",
+                "firstName": "P.J.",
+                "fullName": "P.J. Tucker",
+                "lastName": "Tucker",
+                "personId": 200782,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "P.J.",
+                "fullName": "P.J. Washington",
+                "lastName": "Washington",
+                "personId": 1629023,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Paolo",
+                "fullName": "Paolo Banchero",
+                "lastName": "Banchero",
+                "personId": 1631094,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Pascal",
+                "fullName": "Pascal Siakam",
+                "lastName": "Siakam",
+                "personId": 1627783,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Pat",
+                "fullName": "Pat Connaughton",
+                "lastName": "Connaughton",
+                "personId": 1626192,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Patrick",
+                "fullName": "Patrick Baldwin Jr.",
+                "lastName": "Baldwin Jr.",
+                "personId": 1631116,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2009",
+                "firstName": "Patrick",
+                "fullName": "Patrick Beverley",
+                "lastName": "Beverley",
+                "personId": 201976,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Patrick",
+                "fullName": "Patrick Williams",
+                "lastName": "Williams",
+                "personId": 1630172,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2010",
+                "firstName": "Paul",
+                "fullName": "Paul George",
+                "lastName": "George",
+                "personId": 202331,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Paul",
+                "fullName": "Paul Reed",
+                "lastName": "Reed",
+                "personId": 1630194,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Payton",
+                "fullName": "Payton Pritchard",
+                "lastName": "Pritchard",
+                "personId": 1630202,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Peyton",
+                "fullName": "Peyton Watson",
+                "lastName": "Watson",
+                "personId": 1631212,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Precious",
+                "fullName": "Precious Achiuwa",
+                "lastName": "Achiuwa",
+                "personId": 1630173,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Quentin",
+                "fullName": "Quentin Grimes",
+                "lastName": "Grimes",
+                "personId": 1629656,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "R.J.",
+                "fullName": "R.J. Hampton",
+                "lastName": "Hampton",
+                "personId": 1630181,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "RJ",
+                "fullName": "RJ Barrett",
+                "lastName": "Barrett",
+                "personId": 1629628,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Rayan",
+                "fullName": "Rayan Rupert",
+                "lastName": "Rupert",
+                "personId": 1641712,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Reggie",
+                "fullName": "Reggie Bullock Jr.",
+                "lastName": "Bullock Jr.",
+                "personId": 203493,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Reggie",
+                "fullName": "Reggie Jackson",
+                "lastName": "Jackson",
+                "personId": 202704,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Richaun",
+                "fullName": "Richaun Holmes",
+                "lastName": "Holmes",
+                "personId": 1626158,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Robert",
+                "fullName": "Robert Covington",
+                "lastName": "Covington",
+                "personId": 203496,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Robert",
+                "fullName": "Robert Williams III",
+                "lastName": "Williams III",
+                "personId": 1629057,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Robin",
+                "fullName": "Robin Lopez",
+                "lastName": "Lopez",
+                "personId": 201577,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Ron",
+                "fullName": "Ron Harper Jr.",
+                "lastName": "Harper Jr.",
+                "personId": 1631199,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Royce",
+                "fullName": "Royce O'Neale",
+                "lastName": "O'Neale",
+                "personId": 1626220,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Rudy",
+                "fullName": "Rudy Gobert",
+                "lastName": "Gobert",
+                "personId": 203497,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Rui",
+                "fullName": "Rui Hachimura",
+                "lastName": "Hachimura",
+                "personId": 1629060,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2008",
+                "firstName": "Russell",
+                "fullName": "Russell Westbrook",
+                "lastName": "Westbrook",
+                "personId": 201566,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Ryan",
+                "fullName": "Ryan Arcidiacono",
+                "lastName": "Arcidiacono",
+                "personId": 1627853,
+                "season": "2023",
+                "teamId": 1610612752
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Ryan",
+                "fullName": "Ryan Rollins",
+                "lastName": "Rollins",
+                "personId": 1631157,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Saben",
+                "fullName": "Saben Lee",
+                "lastName": "Lee",
+                "personId": 1630240,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Saddiq",
+                "fullName": "Saddiq Bey",
+                "lastName": "Bey",
+                "personId": 1630180,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Sam",
+                "fullName": "Sam Hauser",
+                "lastName": "Hauser",
+                "personId": 1630573,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Sam",
+                "fullName": "Sam Merrill",
+                "lastName": "Merrill",
+                "personId": 1630241,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Sandro",
+                "fullName": "Sandro Mamukelashvili",
+                "lastName": "Mamukelashvili",
+                "personId": 1630572,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Santi",
+                "fullName": "Santi Aldama",
+                "lastName": "Aldama",
+                "personId": 1630583,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Sasha",
+                "fullName": "Sasha Vezenkov",
+                "lastName": "Vezenkov",
+                "personId": 1628426,
+                "season": "2023",
+                "teamId": 1610612758
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Scoot",
+                "fullName": "Scoot Henderson",
+                "lastName": "Henderson",
+                "personId": 1630703,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Scottie",
+                "fullName": "Scottie Barnes",
+                "lastName": "Barnes",
+                "personId": 1630567,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Seth",
+                "fullName": "Seth Curry",
+                "lastName": "Curry",
+                "personId": 203552,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Shaedon",
+                "fullName": "Shaedon Sharpe",
+                "lastName": "Sharpe",
+                "personId": 1631101,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Shai",
+                "fullName": "Shai Gilgeous-Alexander",
+                "lastName": "Gilgeous-Alexander",
+                "personId": 1628983,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Shake",
+                "fullName": "Shake Milton",
+                "lastName": "Milton",
+                "personId": 1629003,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Sidy",
+                "fullName": "Sidy Cissoko",
+                "lastName": "Cissoko",
+                "personId": 1631321,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Simone",
+                "fullName": "Simone Fontecchio",
+                "lastName": "Fontecchio",
+                "personId": 1631323,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Skylar",
+                "fullName": "Skylar Mays",
+                "lastName": "Mays",
+                "personId": 1630219,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Spencer",
+                "fullName": "Spencer Dinwiddie",
+                "lastName": "Dinwiddie",
+                "personId": 203915,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Stanley",
+                "fullName": "Stanley Umude",
+                "lastName": "Umude",
+                "personId": 1630649,
+                "season": "2023",
+                "teamId": 1610612765
+            },
+            {
+                "draft_year": "2009",
+                "firstName": "Stephen",
+                "fullName": "Stephen Curry",
+                "lastName": "Curry",
+                "personId": 201939,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Svi",
+                "fullName": "Svi Mykhailiuk",
+                "lastName": "Mykhailiuk",
+                "personId": 1629004,
+                "season": "2023",
+                "teamId": 1610612738
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "T.J.",
+                "fullName": "T.J. McConnell",
+                "lastName": "McConnell",
+                "personId": 204456,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Talen",
+                "fullName": "Talen Horton-Tucker",
+                "lastName": "Horton-Tucker",
+                "personId": 1629659,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Tari",
+                "fullName": "Tari Eason",
+                "lastName": "Eason",
+                "personId": 1631106,
+                "season": "2023",
+                "teamId": 1610612745
+            },
+            {
+                "draft_year": "2016",
+                "firstName": "Taurean",
+                "fullName": "Taurean Prince",
+                "lastName": "Prince",
+                "personId": 1627752,
+                "season": "2023",
+                "teamId": 1610612747
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Taylor",
+                "fullName": "Taylor Hendricks",
+                "lastName": "Hendricks",
+                "personId": 1641707,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Terance",
+                "fullName": "Terance Mann",
+                "lastName": "Mann",
+                "personId": 1629611,
+                "season": "2023",
+                "teamId": 1610612746
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Terry",
+                "fullName": "Terry Rozier",
+                "lastName": "Rozier",
+                "personId": 1626179,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Terry",
+                "fullName": "Terry Taylor",
+                "lastName": "Taylor",
+                "personId": 1630678,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2007",
+                "firstName": "Thaddeus",
+                "fullName": "Thaddeus Young",
+                "lastName": "Young",
+                "personId": 201152,
+                "season": "2023",
+                "teamId": 1610612761
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Thanasis",
+                "fullName": "Thanasis Antetokounmpo",
+                "lastName": "Antetokounmpo",
+                "personId": 203648,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Theo",
+                "fullName": "Theo Maledon",
+                "lastName": "Maledon",
+                "personId": 1630177,
+                "season": "2023",
+                "teamId": 1610612766
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Thomas",
+                "fullName": "Thomas Bryant",
+                "lastName": "Bryant",
+                "personId": 1628418,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2013",
+                "firstName": "Tim",
+                "fullName": "Tim Hardaway Jr.",
+                "lastName": "Hardaway Jr.",
+                "personId": 203501,
+                "season": "2023",
+                "teamId": 1610612742
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Tobias",
+                "fullName": "Tobias Harris",
+                "lastName": "Harris",
+                "personId": 202699,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Torrey",
+                "fullName": "Torrey Craig",
+                "lastName": "Craig",
+                "personId": 1628470,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Toumani",
+                "fullName": "Toumani Camara",
+                "lastName": "Camara",
+                "personId": 1641739,
+                "season": "2023",
+                "teamId": 1610612757
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Trae",
+                "fullName": "Trae Young",
+                "lastName": "Young",
+                "personId": 1629027,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Trayce",
+                "fullName": "Trayce Jackson-Davis",
+                "lastName": "Jackson-Davis",
+                "personId": 1631218,
+                "season": "2023",
+                "teamId": 1610612744
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Tre",
+                "fullName": "Tre Jones",
+                "lastName": "Jones",
+                "personId": 1630200,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Tre",
+                "fullName": "Tre Mann",
+                "lastName": "Mann",
+                "personId": 1630544,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Trendon",
+                "fullName": "Trendon Watford",
+                "lastName": "Watford",
+                "personId": 1630570,
+                "season": "2023",
+                "teamId": 1610612751
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Trent",
+                "fullName": "Trent Forrest",
+                "lastName": "Forrest",
+                "personId": 1630235,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2011",
+                "firstName": "Tristan",
+                "fullName": "Tristan Thompson",
+                "lastName": "Thompson",
+                "personId": 202684,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Troy",
+                "fullName": "Troy Brown Jr.",
+                "lastName": "Brown Jr.",
+                "personId": 1628972,
+                "season": "2023",
+                "teamId": 1610612750
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Ty",
+                "fullName": "Ty Jerome",
+                "lastName": "Jerome",
+                "personId": 1629660,
+                "season": "2023",
+                "teamId": 1610612739
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "TyTy",
+                "fullName": "TyTy Washington Jr.",
+                "lastName": "Washington Jr.",
+                "personId": 1631102,
+                "season": "2023",
+                "teamId": 1610612749
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Tyler",
+                "fullName": "Tyler Herro",
+                "lastName": "Herro",
+                "personId": 1629639,
+                "season": "2023",
+                "teamId": 1610612748
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Tyrese",
+                "fullName": "Tyrese Haliburton",
+                "lastName": "Haliburton",
+                "personId": 1630169,
+                "season": "2023",
+                "teamId": 1610612754
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Tyrese",
+                "fullName": "Tyrese Maxey",
+                "lastName": "Maxey",
+                "personId": 1630178,
+                "season": "2023",
+                "teamId": 1610612755
+            },
+            {
+                "draft_year": "2015",
+                "firstName": "Tyus",
+                "fullName": "Tyus Jones",
+                "lastName": "Jones",
+                "personId": 1626145,
+                "season": "2023",
+                "teamId": 1610612764
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Udoka",
+                "fullName": "Udoka Azubuike",
+                "lastName": "Azubuike",
+                "personId": 1628962,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Vasilije",
+                "fullName": "Vasilije Micic",
+                "lastName": "Micic",
+                "personId": 203995,
+                "season": "2023",
+                "teamId": 1610612760
+            },
+            {
+                "draft_year": "2023",
+                "firstName": "Victor",
+                "fullName": "Victor Wembanyama",
+                "lastName": "Wembanyama",
+                "personId": 1641705,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Vince",
+                "fullName": "Vince Williams Jr.",
+                "lastName": "Williams Jr.",
+                "personId": 1631246,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2022",
+                "firstName": "Walker",
+                "fullName": "Walker Kessler",
+                "lastName": "Kessler",
+                "personId": 1631117,
+                "season": "2023",
+                "teamId": 1610612762
+            },
+            {
+                "draft_year": "2018",
+                "firstName": "Wendell",
+                "fullName": "Wendell Carter Jr.",
+                "lastName": "Carter Jr.",
+                "personId": 1628976,
+                "season": "2023",
+                "teamId": 1610612753
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Wesley",
+                "fullName": "Wesley Matthews",
+                "lastName": "Matthews",
+                "personId": 202083,
+                "season": "2023",
+                "teamId": 1610612737
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Xavier",
+                "fullName": "Xavier Tillman",
+                "lastName": "Tillman",
+                "personId": 1630214,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "Undrafted",
+                "firstName": "Yuta",
+                "fullName": "Yuta Watanabe",
+                "lastName": "Watanabe",
+                "personId": 1629139,
+                "season": "2023",
+                "teamId": 1610612756
+            },
+            {
+                "draft_year": "2017",
+                "firstName": "Zach",
+                "fullName": "Zach Collins",
+                "lastName": "Collins",
+                "personId": 1628380,
+                "season": "2023",
+                "teamId": 1610612759
+            },
+            {
+                "draft_year": "2014",
+                "firstName": "Zach",
+                "fullName": "Zach LaVine",
+                "lastName": "LaVine",
+                "personId": 203897,
+                "season": "2023",
+                "teamId": 1610612741
+            },
+            {
+                "draft_year": "2020",
+                "firstName": "Zeke",
+                "fullName": "Zeke Nnaji",
+                "lastName": "Nnaji",
+                "personId": 1630192,
+                "season": "2023",
+                "teamId": 1610612743
+            },
+            {
+                "draft_year": "2021",
+                "firstName": "Ziaire",
+                "fullName": "Ziaire Williams",
+                "lastName": "Williams",
+                "personId": 1630533,
+                "season": "2023",
+                "teamId": 1610612763
+            },
+            {
+                "draft_year": "2019",
+                "firstName": "Zion",
+                "fullName": "Zion Williamson",
+                "lastName": "Williamson",
+                "personId": 1629627,
+                "season": "2023",
+                "teamId": 1610612740
+            }
+        ]
+    }
+}

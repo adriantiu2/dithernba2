@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/styles.css">
+        <title>Dither NBA</title>
+    </head>
+    <body>
+    <div class="fullmenu">
+        <div class="menu">
+            <img id="logo" src="/assets/dithernbalogo.png" alt="Logo">
+            <div class="functions">
+                <div class="archive-live">
+                    <a class="archive" href="/index.html">Archive</a>
+                    <p class="live" style="text-decoration: underline;">LIVE <span class='liveicon'>◉</span></p>
+                    <a class="live" href="/pages/products.html">Products</p></a>
+                    <a href="/pages/about.html">About</a>
+                </div>
+                <label class="tag-button liveyear">
+                    <span class="button-text">2024</span>
+                </label>
+                <p class="page-description">All stats are LIVE and includes all active players. Please make sure your spelling is correct.</p>
+            </div>
+        </div>
+          <input
+              type="text"
+              class="inputField"
+              id="playerNameInput"
+              placeholder="Enter Name"
+            />
+            
+            <div id="suggestionList"></div>
+
+        <button class="submitButtons" onclick="get_player()">Submit</button>
+        <button class="submitButtons" id="randomButton" onclick="random_player()">Random Player</button>
+        <div id="loading"></div>
+
+
+             <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+            <script src="/common/main.js"></script>
+    </body>
+</html> 

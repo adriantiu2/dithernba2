@@ -4,56 +4,69 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Image Search</title>
+    <title>Dither NBA</title>
 </head>
 <body>
-<input type="range" id="sizeSlider" min="0.1" max="0.8" step="0.1" value="0">
+	
+		<div class="menu">
+		<img id="logo" src="/assets/dithernbalogo.png" alt="Logo">
+			<div class="functions">
+				<div class="archive-live">
+					<p class="archive" style="text-decoration: underline;">Archive</p>
+					<a class="live" href="/pages/ditherlive.html">LIVE <span class='liveicon'>◉</span></a>
+					<a class="live" href="/pages/products.html">Products</p></a>
+					<a href="/pages/about.html">About</a>
+				</div>
+				<div class="fullmenu">
+				    <div id="subfolderButtons" class="button-container">
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2014" ><span class="button-text">2014</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2015"><span class="button-text">2015</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2016"><span class="button-text">2016</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2017"><span class="button-text">2017</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2018"><span class="button-text">2018</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2019"><span class="button-text">2019</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2020"><span class="button-text">2020</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2021"><span class="button-text">2021</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2022"><span class="button-text">2022</span>
+					    </label>
+					    <label class="tag-button">
+					        <input type="checkbox" class="checkbox" data-subfolder="2023"><span class="button-text">2023</span>
+					    </label>
+				    <!-- Add more checkboxes as needed -->
+					</div>
+					<input type="range" id="sizeSlider" min="0.1" max="0.8" step="0.01" value="0.2" class="custom-slider">
+				</div>
+			</div>
+		</div>
 
+		<input type="text" class="inputField" id="fullNameInput" placeholder="Enter Name">
 
-    <div id="subfolderButtons" class="button-container">
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2014">2014
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2015">2015
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2016">2016
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2017">2017
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2018">2018
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2019">2019
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2020">2020
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2021">2021
-	    </label>
-	    <label class="tag-button">
-	        <input type="checkbox" class="checkbox" data-subfolder="2022">2022
-	    </label>
-    <!-- Add more checkboxes as needed -->
-	</div>
+		<button id="clearSearchInput" class="submitButtons">Clear</button>
+	
 
-    <!-- Add more checkboxes as needed -->
-</div>
-    <!-- Add two input fields for Last Name and First Name searches -->
-<input type="text" id="firstNameInput" placeholder="First Name">
-<input type="text" id="lastNameInput" placeholder="Last Name">
-<button id="clearSearchInput">Clear</button>
-
-
-    <div id="imageContainer" class="image-container"></div>
-    <script src="script.js"></script>
-    <div id="enlargedView" class="enlarged-view">
-    	<img id="enlargedImage" src="" alt="Enlarged Image">
-	</div>
+		    <div id="imageContainer" class="image-container"></div>
+		    	<script src="script.js"></script>
+		    	<div id="enlargedView" class="enlarged-view">
+		    	<img id="enlargedImage" src="" alt="Enlarged Image">
+			</div>
+	
 
 </body>
 </html>

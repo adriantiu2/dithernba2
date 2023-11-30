@@ -1,39 +1,157 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     background-color: black;
     color: white;
+    margin:15px;
 }
 
 img{
-    border: 0.5px solid white;
+    border: 1px solid white;
 }
 
-
-/*.tag-button:active {
-    background-color: #666;
+img:hover{
+    border: 1px solid black;
 }
 
-.tag-button:not(:active) {
-    background-color: #ccc;
-}*/
+p{
+    margin: 0;
+}
+
+::selection {
+  background: none;
+}
+
+#loading {
+  border: 4px solid black; /* Light grey */
+  border-top: 4px solid white; /* Blue */
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-top: 100px;
+  margin-left: 15px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#suggestionList {
+  position: absolute;
+  border: 1px solid white;
+  max-height: 150px;
+  overflow-y: auto;
+  background-color: black;
+  z-index: 100;
+    display: none; /* Initially hide the suggestion list */
+}
+
+#suggestionList.visible {
+  display: block; /* Show the suggestion list when it has items */
+}
+
+#suggestionList div {
+  padding: 8px;
+  cursor: pointer;
+}
+
+#suggestionList div:hover {
+  background-color: white;
+  color:black;
+}
+
+/*BUTTONS*/
+
+.tag-button {
+    display: inline-block;
+/*    padding: 5px 10px;*/
+    border: 1px solid #ccc;
+    cursor: pointer;
+    user-select: none; /* Prevent text selection */
+    position: relative;
+}
+
+.checkbox {
+    display: none; /* Hide the default checkbox input */
+}
+
+.button-text {
+    z-index: 1;
+    position: relative;
+}
+
+/* Style for the checked state */
+.checkbox:checked + span {
+    background-color: white; /* Change the background color when checked */
+    color: black; /* Change the text color when checked */
+}
+
+/* Hover effect */
+.tag-button:hover {
+    background-color: white; /* Change the background color on hover */
+    color: black; /* Change the text color on hover */
+}
+
+.tag-button span {
+  padding: 5px 10px;
+  display: block;
+}
+
+.liveyear{
+    background-color: white;
+    color: black;
+}
 .large-images img {
     max-width: 200px;
     max-height: 200px;
 }
 
-/* Style for checked checkboxes */
-.checkbox:checked + .tag-button {
-    background-color: yellow; /* Change to the desired checked color */
+.menu{
+    min-height: 95px;
+    display: flex;
+    padding-bottom: 10px;
 }
 
+a {
+    text-decoration: none;
+}
 
+a:link, a:visited {
+    color: white;
+}
 
-#searchInput {
-/*    width: 80%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;*/
+a:hover {
+    text-decoration: underline;
+}
+
+.archive-live{
+    padding-bottom: 10px;
+    display: flex;
+}
+.archive, .live{
+    padding-right: 20px;
+}
+
+.liveicon{
+    font-size:83%;
+}
+
+.page-description{
+    font-size: 65%;
+    padding-top: 13px;
+}
+
+.about-description{
+    max-width: 50%;
+}
+
+#logo{
+    width: 85px;
+    height: 85px;
+    border: none;
+    padding-left: 0px;
+    padding-right: 15px;
 }
 
 .image-container {
@@ -68,7 +186,168 @@ img{
 }
 
 .enlarged-view img {
-    max-width: 50%;
+/*    max-width: 50%;*/
     max-height: 50%;
     border: 3px solid white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
+
+
+
+
+#sizeSlider.custom-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 30%;
+    height: 10px;
+    background: transparent;
+    border: none;
+
+    /* Customize the slider thumb (handle) */
+    &::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 8px; /* Set the width of the handle */
+        height: 13px; /* Set the height of the handle */
+        background: #fff; /* Set the handle background color to white */
+        border: none;
+        cursor: pointer;
+        margin-top: -5px; /* Adjust the vertical alignment of the handle */
+    }
+
+    /* Customize the slider track (range) */
+    &::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 3px;
+        background: #fff;
+        border: none;
+    }
+}
+
+input::placeholder {
+    color: white;
+}
+
+.submitButtons{
+    background-color: white; /* Set the background color to black */
+    color: black; /* Set the text color to white */
+    border: 1px solid white; /* Add a simple white border */
+    padding: 5px 10px; /* Add some padding for better visual appearance */
+}
+.submitButtons:hover{
+    background-color: black;
+    color: white;
+}
+
+.inputField{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 5px 10px;
+    outline: none;
+    font-size: 13px;
+}
+
+.inputField::selection{
+    color: black;  
+    background: rgba(255, 255, 255, 0.996);
+}
+
+#firstNameInput::placeholder, #lastNameInput::placeholder{
+    color: white; /* Set the color of the placeholder text to white */
+}
+
+datalist {
+  position: absolute;
+  max-height: 20em;
+  border: 0 none;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+datalist option {
+  font-size: 0.8em;
+  padding: 0.3em 1em;
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+/* option active styles */
+datalist option:hover,
+datalist option:focus {
+  color: #fff;
+  background-color: #036;
+  outline: 0 none;
+}
+
+#browserdata option {
+  font-size: 1.8em;
+  padding: 0.3em 1em;
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+
+    #logo{
+        display: none;
+    }
+    #sizeSlider.custom-slider{
+        width: 100%;
+        margin-bottom: 12px;
+        margin-left: -0.1px;
+    }
+    .tag-button{
+        margin-bottom: 5px;
+    }
+    .about-description{
+        max-width: 100%;
+    }
+    .menu{
+        font-size: 20px;
+    }
+    .inputField{
+        width: 94%;
+        font-size: 20px;
+    }
+    #sizeSlider.custom-slider{
+        &::-webkit-slider-thumb {
+            width: 15px;
+            height: 30px;
+            margin-top: -13px;
+        }
+    }
+    .image-container{
+        justify-content: center;
+    }
+    .submitButtons{
+        font-size: 20px;
+        margin-top: 5px;
+        width: 100%;
+    }
+    .functions{
+        width: 100%;
+    }
+    .archive-live{
+        justify-content: space-between; /* Add this property to justify content */
+        padding-bottom: 18px;
+        padding-bottom: 18px;
+    }
+    body{
+        margin-left: 13px;
+        margin-right: 13px;
+    }
+}
+@media only screen and (max-width: 375px) {
+
+    .tag-button{
+        font-size: 18px;
+    }
+}
+
+
