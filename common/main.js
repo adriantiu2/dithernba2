@@ -93,7 +93,7 @@ function setup() {
 
               // Detect mobile device and set font size accordingly
   if (isMobileDevice()) {
-    cnv.position( 0, 300 );
+    cnv.position( 0, 275 );
     cnv.style('width', '101%');
     cnv.style('height', 'auto');
   } else {
