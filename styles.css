@@ -202,9 +202,9 @@ a:hover {
     -webkit-appearance: none;
     appearance: none;
     width: 30%;
-    height: 10px;
-    background: transparent;
+    height: 3px;
     border: none;
+    background-color: white;
 
     /* Customize the slider thumb (handle) */
     &::-webkit-slider-thumb {
