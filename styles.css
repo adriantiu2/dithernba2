@@ -348,6 +348,10 @@ datalist option:focus {
     .tag-button{
         font-size: 18px;
     }
+    .tag-button:hover {
+    background-color: black; /* Change the background color on hover */
+    color: white; /* Change the text color on hover */
+}
 }
 
 
