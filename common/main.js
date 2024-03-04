@@ -2,8 +2,8 @@ var playerData;
 var playerStats;
 var playerStats2;
 var playerStats3;
-var api = "https://www.balldontlie.io/api/v1/players?search=";
-var api2 = "https://www.balldontlie.io/api/v1/season_averages?season=2018&player_ids[]=";
+var api = "https://api.balldontlie.io/v1/players?search=";
+var api2 = "https://api.balldontlie.io/v1/season_averages?season=2018&player_ids[]=";
 // var input;
 var playerDataPic;
 var playerData2;
@@ -23,7 +23,7 @@ let keys;
 let values;
 let randomNum;
 var urlpic;
-var apiPlayers ="https://www.balldontlie.io/api/v1/players/";
+var apiPlayers ="https://api.balldontlie.io/v1/players/";
 let isLoading = false;
 var current_season;
 var start_season = 2023;
@@ -317,6 +317,7 @@ function make_frames( player, editedPlayerName ) {
 }
 
 function make_pic_frame( pic, editedPlayerName ) {
+	var apiKey = '5b5ae7b7-464d-42a6-a17e-700a8fb8141a';
   img = pic;
   var spaceIndex = str(editedPlayerName).indexOf(' ');
   var statsFirstName = str(editedPlayerName).substring(0, spaceIndex);
@@ -335,7 +336,12 @@ function make_pic_frame( pic, editedPlayerName ) {
     console.log('Same Name');
   }
   // get stats BEFORE pic
-  var pageUrl = "https://www.balldontlie.io/api/v1/players?search="+input2.value()+"&page=";
+  var apiEndpoint = "https://api.balldontlie.io/v1/players?search=" + encodeURIComponent(input2.value()) + "&page=";
+    
+    // Define the headers object with the Authorization header
+    var headers = {
+        'Authorization': apiKey
+    };
   var pageMax = 5;
   // var pageMax = playerData.meta.total_pages
                                                           // playerId = 2049;
@@ -343,9 +349,17 @@ function make_pic_frame( pic, editedPlayerName ) {
   frame_calls = {}
   var currentPage;
   for(j = 1; j<pageMax; j++){
-    currentPage = pageUrl + j;
-    // loadJSON(currentPage, make_stats_frame);
-    loadJSON(currentPage, 'json', make_stats_frame, handle_json_error);
+    currentPage = apiEndpoint + j;
+    fetch(currentPage, {
+                headers: headers
+            })
+            .then(response => response.json())
+            .then(data => {
+                make_stats_frame(data);
+                console.log('API response:', data); // Log the response data
+            })
+            .catch(error => handle_json_error(error));
+    // loadJSON(currentPage, 'json', make_stats_frame, handle_json_error);
     if (statsFirstName == "Gary"){
       playerId = 3089;
       console.log('gary:', playerId);
@@ -358,12 +372,13 @@ function handle_json_error( error ) {
   console.log('****call json error** ', error);
   hideLoading();
   textSize(15*sc);
-  text( "ERROR: Too many requests, try again later.", 20, 100 );
+  text( "ERROR: Too many requests, please stop spamming.", 20, 100 );
 
 }
 
 
 function make_stats_frame( data ) {
+	var apiKey = '5b5ae7b7-464d-42a6-a17e-700a8fb8141a'; // Replace this with your actual API key
   if (playerId == null) {
     data = data.data
     for (var x = 0; x<data.length; x++) {
@@ -377,12 +392,24 @@ function make_stats_frame( data ) {
     frame_key = current_season + playerId.toString();  // track calls
     if (frame_calls[ frame_key ] != 1) {
       frame_calls[ frame_key ] = 1;
-      statUrl = "https://www.balldontlie.io/api/v1/season_averages?season=" + current_season.toString() + "&player_ids[]=" + playerId;
+      statUrl = "https://api.balldontlie.io/v1/season_averages?season=" + encodeURIComponent(current_season.toString()) + "&player_ids[]=" + playerId;
+      var headers = {
+                'Authorization': apiKey
+            };
       let statData = loadJSON(statUrl);
       console.log('****call**', statUrl);
       console.log('length', statUrl.length);
       // loadJSON(statUrl, make_frame, 'json');
-      loadJSON(statUrl, 'json', make_frame, handle_json_error);
+               fetch(statUrl, {
+                    headers: headers
+                })
+                .then(response => response.json())
+                .then(data => {
+                    make_frame(data); // Assuming make_frame is defined elsewhere in your code
+                    console.log('API response:', data); // Log the response data
+                })
+                .catch(error => handle_json_error(error));
+      // loadJSON(statUrl, make_frame, handle_json_error, headers);
     }
   }
 }
