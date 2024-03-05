@@ -93,7 +93,7 @@ function setup() {
 
               // Detect mobile device and set font size accordingly
   if (isMobileDevice()) {
-    cnv.position( 0, 275 );
+    cnv.position( 0, 280 );
     cnv.style('width', '101%');
     cnv.style('height', 'auto');
   } else {
@@ -500,14 +500,21 @@ function make_frame( player_stats ) {
     no_show = ['games_played', 'player_id', 'season', 'min', 'ftm', 'fta', 'pf'];
     for (const [key, value] of Object.entries(stats)) {
       if (no_show.includes(key)) continue;
-      values = `${key.toUpperCase()}: ${value.toPrecision(2)}`;
-      textAlign( LEFT, TOP )
-      text(values, xs + xi, stats_top + yi*line_height);
-      yi ++;
-      if (yi >= y_lines) {
-        yi = 0;
-        xi += column_width;
-      }
+	    const displayKey = key === "turnover" ? "to" : key;
+
+	    // Construct the text to display
+	    const textToDisplay = `${displayKey.toUpperCase()}: ${value.toPrecision(2)}`;
+
+	    // Render the text
+	    textAlign(LEFT, TOP);
+	    text(textToDisplay, xs + xi, stats_top + yi * line_height);
+
+	    // Increment indices if necessary
+	    yi++;
+	    if (yi >= y_lines) {
+	        yi = 0;
+	        xi += column_width;
+	    }
     }
 
     // frame outline
