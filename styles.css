@@ -217,7 +217,7 @@ a:hover {
 #sizeSlider.custom-slider {
     -webkit-appearance: none;
     appearance: none;
-    width: 18%;
+    width: 200px;
     height: 4px;
     border: none;
     background-color: white;
