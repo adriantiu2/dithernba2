@@ -373,7 +373,13 @@ datalist option:focus {
         margin-right: 13px;
     }
 }
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 400px) {
+        .productimg{
+    width: 88%;
+    height: auto;
+    padding: 20px;
+    border-color: black;
+}
 
     .tag-button{
         font-size: 18px;
