@@ -26,8 +26,8 @@ var urlpic;
 var apiPlayers ="https://api.balldontlie.io/v1/players/";
 let isLoading = false;
 var current_season;
-var start_season = 2023;
-var end_season = 2023;
+var start_season = 2024;
+var end_season = 2024;
 let frame_pos = {};
 let frame_calls = {};  // to keep track of calls
 let players_json = {};
