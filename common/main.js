@@ -392,7 +392,7 @@ function make_stats_frame( data ) {
     frame_key = current_season + playerId.toString();  // track calls
     if (frame_calls[ frame_key ] != 1) {
       frame_calls[ frame_key ] = 1;
-      statUrl = "https://api.balldontlie.io/v1/season_averages?season=" + encodeURIComponent(current_season.toString()) + "&player_ids[]=" + playerId;
+      statUrl = "https://api.balldontlie.io/v1/season_averages?season=" + encodeURIComponent(current_season.toString()) + "&player_id=" + playerId;
       var headers = {
                 'Authorization': apiKey
             };
