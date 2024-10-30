@@ -479,7 +479,7 @@ function make_frame( player_stats ) {
     textStyle(BOLD);
 
     texts = [
-      '2024',
+      '2025',
       // 'stats['season']',
       "Games: " + stats['games_played'],
       "Mins: " + stats['min'],
